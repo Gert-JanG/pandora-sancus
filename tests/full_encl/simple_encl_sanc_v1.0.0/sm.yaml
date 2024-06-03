@@ -1,0 +1,4 @@
+basic_enclave:
+    - sm_entry: "sm_entry.o"
+    - sm_exit: "sm_exit.o"
+    - sm_isr: "sm_isr.o"
